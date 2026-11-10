@@ -1,6 +1,6 @@
 const menuData = {
   dosa: {
-    image: "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=1000&q=85",
+    image: "assets/quinoa-dosa-02.jpg?auto=format&fit=crop&w=1000&q=85",
     alt: "Golden South Indian dosa",
     items: [
       ["Plain Dosa","Crisp, golden and beautifully simple.","₹90"],
@@ -16,7 +16,7 @@ const menuData = {
     ]
   },
   idli: {
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dad?auto=format&fit=crop&w=1000&q=85",
+    image: "assets/Idli-2040-scaled.jpg?auto=format&fit=crop&w=1000&q=85",
     alt: "South Indian idli and accompaniments",
     items: [
       ["Plain Idli","Soft, steamed and comforting.","₹70"],
@@ -30,7 +30,7 @@ const menuData = {
     ]
   },
   uttapam: {
-    image: "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=1000&q=85",
+    image: "https://www.cookwithmanali.com/wp-content/uploads/2024/02/rava-uttapam-with-coconut-chutney.jpg?auto=format&fit=crop&w=1000&q=85",
     alt: "South Indian savoury dosa-style dish",
     items: [
       ["Onion Uttapam","Topped with freshly chopped onion.","₹150"],
